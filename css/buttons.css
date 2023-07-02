@@ -1,0 +1,57 @@
+.blue-button {
+  position: relative;
+  margin-left: 10px;
+  margin-right: 10px;
+  color: #2196F3;
+  font-size: 16px;
+  padding: 7px 25px;
+  border-radius: 10px;
+  border: 2px solid #2196F3;
+  background: #FFFFFF;
+  
+}
+.blue-button:hover {
+  color: #ffffff ;
+  background: #2196F3;
+  box-shadow: 2px 2px 2px #0000006c; 
+}
+
+.red-button {
+  position: relative;
+  margin-left: 10px;
+  margin-right: 10px;
+  color: #ff0000;
+  font-size: 16px;
+  padding: 7px 25px;
+  border-radius: 10px;
+  border: 2px solid #ff0000;
+  background: #FFFFFF;
+  
+}
+.red-button:hover {
+  color: #ffffff ;
+  background: #ff0000;
+  box-shadow: 2px 2px 2px #00000086; 
+}
+
+.btn-minwidth{
+  min-width: 130px;
+}
+
+.green-button {
+  position: relative;
+  margin-left: 10px;
+  margin-right: 10px;
+  color: #2aaa03;
+  font-size: 16px;
+  padding: 7px 25px;
+  border-radius: 10px;
+  border: 2px solid #2aaa03;
+  background: #FFFFFF;
+  
+}
+.green-button:hover {
+  color: #ffffff ;
+  background: #2aaa03;
+  box-shadow: 2px 2px 2px #00000083; 
+}
